@@ -1,0 +1,18 @@
+{
+  "name": "ClosedElement",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "chart.js": "^1.1.1",
+    "meteor-node-stubs": "~0.2.0",
+    "moment": "^2.14.1",
+    "react": "^15.3.0",
+    "react-addons-pure-render-mixin": "^15.3.0",
+    "react-chartjs": "^0.8.0",
+    "react-date-picker": "^5.3.26",
+    "react-dom": "^15.3.0",
+    "react-google-charts": "^1.0.2"
+  }
+}
